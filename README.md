@@ -1,2 +1,2 @@
 # mrizalfauzanh-resolusi
-Repository untuk menyimpan rencana rizal kedepannya
+Repository untuk menyimpan rencana saya kedepannya
